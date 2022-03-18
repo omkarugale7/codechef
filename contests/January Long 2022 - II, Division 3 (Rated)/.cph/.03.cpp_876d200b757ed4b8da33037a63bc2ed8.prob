@@ -1,0 +1,1 @@
+{"name":"Local: 03","url":"c:\\codechef\\contests\\January Long 2022 - II, Division 3 (Rated)\\03.cpp","tests":[{"id":1642164278817,"input":"2\n3\n3 0 0\n0 3 0\n0 0 3\n5\n2 1 2\n1 4 0\n2 0 3","output":"0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codechef\\contests\\January Long 2022 - II, Division 3 (Rated)\\03.cpp","group":"local","local":true}
